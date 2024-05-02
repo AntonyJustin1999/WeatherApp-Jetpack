@@ -1,0 +1,10 @@
+Faced Errors
+
+*)If I attach one module to library using implementation(project(mapOf("path" to ":features:splash"))) it returns NoSuchMethodError: No static method  in android studio
+That error show only when I call composable methods
+
+Add Compose in Gradle
+
+Doubts 
+
+*)Difference between NavController and NavHostController
