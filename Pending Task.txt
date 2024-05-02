@@ -1,0 +1,5 @@
+*)Fix Crash in Weather Details Screen
+*)Handle Network Connection Status
+*)Improve code maintanance like propeller
+*)Add Image and Other Details in README file
+*)Publish App in Amazon Store
